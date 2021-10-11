@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;hw6/src&apos;&#x0D;&#x0A;- Original project: &apos;hw5&apos;&#x0D;&#x0A;- Destination element: &apos;hw6/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CS1332-checkstyle.xml&#x0D;&#x0A;     checkstyle-8.12-all.jar" description="Copy files" destination="=hw6/src" element1="src/CS1332-checkstyle.xml" element2="src/checkstyle-8.12-all.jar" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1633629302753" units="0" version="1.0"/>
+</session>

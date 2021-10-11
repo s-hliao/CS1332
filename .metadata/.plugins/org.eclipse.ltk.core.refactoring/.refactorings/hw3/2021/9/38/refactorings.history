@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;hw4/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;hw3&apos;&#x0D;&#x0A;- Destination element: &apos;hw4/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CS1332-checkstyle.xml&#x0D;&#x0A;     checkstyle-8.12-all.jar&#x0D;&#x0A;     HW03.pdf" description="Copy files" destination="=hw4/src&lt;" element1="src/CS1332-checkstyle.xml" element2="src/checkstyle-8.12-all.jar" element3="src/HW03.pdf" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1631828799766" units="0" version="1.0"/>
+</session>

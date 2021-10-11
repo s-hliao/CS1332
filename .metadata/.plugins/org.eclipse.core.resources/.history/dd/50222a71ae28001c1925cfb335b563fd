@@ -1,0 +1,16 @@
+
+public class s {
+
+    public static void main(String[] args) {
+        for(long i = 0; i< 100000; i++) {
+            System.out.println(i +" "+ i*i);
+            if((i * i) % 3 == 2) {
+                System.out.println("found");
+                break;
+            }
+                
+        }
+
+    }
+
+}
